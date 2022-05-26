@@ -1,4 +1,4 @@
-# Instabug Infrastructure Internship Challenge 2022
+
 # GoViolin
 
 GoViolin is a web app written in Go that helps with violin practice.
@@ -34,3 +34,5 @@ Contains:
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/10.png" />
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/11.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/12.png" />
