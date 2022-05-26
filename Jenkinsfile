@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Preparation') {
             steps {
-               git 'https://github.com/Ahmed-Arafat10/Booster_CI_CD_Project.git'
+               git 'https://github.com/Ahmed-Arafat10/GoViolin.git'
                   }
         
                               }
@@ -13,7 +13,7 @@ pipeline {
             steps {
                 withCredentials([usernamePassword(credentialsId: 'DockerHub', usernameVariable: 'USERNAME', passwordVariable: 'PASSWORD')]) {
                 sh """
-                docker build . -f dockerfile -t ahmedarafat10/django_project:latest
+                docker build . -f dockerfile -t ahmedarafat10/goviolin:latest
                 """
             }
         }
@@ -26,7 +26,7 @@ pipeline {
    
                 sh """
                  docker login -u ${USERNAME}  -p ${PASSWORD}
-                 docker push ahmedarafat10/django_project:latest
+                 docker push ahmedarafat10/goviolin:latest
                 """
                }
            }
@@ -35,7 +35,7 @@ pipeline {
          stage('Depoly') {
             steps {
                    sh """
-                docker run -d -p 3000:8000 ahmedarafat10/django_project:latest
+                docker run -d -p 3000:8000 ahmedarafat10/goviolin:latest
                 """
                 }
         }   
