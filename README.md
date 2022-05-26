@@ -23,6 +23,9 @@ Contains:
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/5.png" />
 
+## Or you can Shorten the dockerfile to be like that:
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/5-5.png" />
+
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/6.png" />
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/7.png" />
