@@ -35,7 +35,7 @@ agent any
          stage('Depoly') {
             steps {
                    sh """
-                docker run -d -p 3000:8000 ahmedarafat10/goviolin:latest
+                 docker container run -id -p 1115:8080 ahmedarafat10/goviolin:latest go run . 
                 """
                 }
         }   
