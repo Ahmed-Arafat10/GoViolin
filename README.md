@@ -16,7 +16,7 @@ Contains:
 # Output
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/1.png" />
 
-## Pipeline Is Built Successfully In Jenkins Dashboar
+## Pipeline Is Built Successfully In Jenkins Dashboard
 
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/2.png" />
@@ -42,13 +42,13 @@ Contains:
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/5-5.png" />
 
-## Jenkinsfile IN Vs Code
+## Jenkinsfile In Vs Code
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/8.png" />
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/9.png" />
 
-## You Can See That Docker Image Is Created & Is Ready To Be Pushed To Dockerhub
+## You Can See That Jenkins Has Created The Docker Image & It Is Ready To Be Pushed To Dockerhub
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/10.png" />
 
@@ -61,7 +61,7 @@ Contains:
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/11.png" />
 
 
-
+# Setps
 
 ## first create a docker image of jenkins that can run docker cli [to be able to write docker command in jenkins] 
 ```
