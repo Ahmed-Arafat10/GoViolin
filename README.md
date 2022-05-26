@@ -1,3 +1,4 @@
+# Instabug Infrastructure Internship Challenge 2022
 # GoViolin
 
 GoViolin is a web app written in Go that helps with violin practice.
@@ -11,3 +12,25 @@ Contains:
 * Harmonic and Melodic Minor scales
 * Arpeggios
 * A set of two part scale duet melodies by Franz Wohlfahrt
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/1.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/2.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/3.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/4.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/5.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/6.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/7.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/8.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/9.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/10.png" />
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/11.png" />
