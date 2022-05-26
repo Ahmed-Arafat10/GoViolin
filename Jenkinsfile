@@ -1,5 +1,5 @@
 pipeline {
-  agent {label "Project"}
+  agent {label "GoViolin"}
 
     stages {
         stage('Preparation') {
