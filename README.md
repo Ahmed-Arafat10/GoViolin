@@ -16,30 +16,50 @@ Contains:
 # Output
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/1.png" />
 
+## Pipeline Is Built Successfully In Jenkins Dashboar
+
+
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/2.png" />
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/6.png" />
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/7.png" />
+
+
+## GoViolin Website Is Hosted On Port 1114
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/3.png" />
 
+## A Message Is Sent To Slack To Notify That Pipeline Is Deployed Successfully
+
+## List Docker Containers On The Device
+
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/4.png" />
+
+## dockerfile In Vs Code
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/5.png" />
 
 ## Or you can Shorten the dockerfile to be like that:
+
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/5-5.png" />
 
-<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/6.png" />
-
-<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/7.png" />
+## Jenkinsfile IN Vs Code
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/8.png" />
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/9.png" />
 
+## You Can See That Docker Image Is Created & Is Ready To Be Pushed To Dockerhub
+
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/10.png" />
+
+## Image Is Pushed To Dockerhub By Jenkins Pipeline
+
+<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/12.png" />
+
+## GoViolin Is Deployed Successfully In Console Output 
 
 <img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/11.png" />
 
-<img align="center" title="DevOps" alt="DevOps" width="100%" src="/Screenshots/12.png" />
 
 
 
