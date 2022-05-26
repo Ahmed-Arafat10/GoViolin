@@ -19,19 +19,7 @@ agent any
         }
         
         }   
-         stage('Push Image') {
-               steps {
-                withCredentials([usernamePassword(credentialsId: 'DockerHub', usernameVariable: 'USERNAME', passwordVariable: 'PASSWORD')]) {
-               
-   
-                sh """
-                 docker login -u ${USERNAME}  -p ${PASSWORD}
-                 docker push ahmedarafat10/goviolin:latest
-                """
-               }
-           }
-        
-        }   
+
          stage('Depoly') {
             steps {
                    sh """
