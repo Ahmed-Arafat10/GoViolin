@@ -1,6 +1,6 @@
 pipeline {
  // agent {label "GoViolin"}
-
+agent any
     stages {
         stage('Preparation') {
             steps {
